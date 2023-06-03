@@ -1,47 +1,36 @@
-<h1> Wibus 👨‍💻 &nbsp;&nbsp; ( &nbsp;
-<a href="mailto:wibus@qq.com" align="center">
+<h1> Akuma 👨‍💻 &nbsp;&nbsp; ( &nbsp;
+<a href="mailto:adrianoligarch@gmail.com" align="center">
   <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
 </a>&nbsp;
-<a href="https://twitter.com/wibus_wee" align="center">
+<a href="https://twitter.com/thehikarinet" align="center">
   <img alt="Wibus on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
 </a> &nbsp;)</h1>
 
-> <u>*I am now in school, code time is usually on the weekend*</u>
+> <u>Ramen delivery driver. Works for the Yakuza. Preternaturally gifted AI hacker.</u>
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/>
+<img align="right" width="300" src="https://github.com/ai-akuma/ai-akuma/assets/7444521/294f1ab6-c3dc-486d-a452-2d45108e0570"/>
 
-Hi! I'm wibus! I am **a 🎹 personal piano player and a  🎤 personal singer & maker**, core team of 🔨 [@jwcjs](https://github.com/jwcjs/core) and 🏖 [@mogland](https://github.com/mogland/core) 
+Hi! I'm Adrian! I am **a coder and entrepreneur**
 
-I love myself, love the world, and always love my family. I hope I can become a FSD ( Full Stacks Developer ｜ 全栈开发者) oneday.
+I love work, Japanese culture, and my family. Actively working to automate business growth with self-learning models.
 
-I have been contributed to the **`Typecho`** ecosystem, and now I am working in **`Mog`** & **`Jwc.js`** development.
-
-I began to learn vocal music and piano since I was a child, and I have won many first prizes in domestic and international competitions
-
-- 🔭 I’m currently working on a breakthrough blogging system 🏖 [@mogland](https://github.com/mogland/core) and web component framework 🔨 [@jwcjs](https://github.com/jwcjs/core) 
-- 🌱 I’m currently learning 🧵 web design, and so on.
-- 🤔 I’m looking for help with 🥚 MicroService Module design.
-- 📫 How to reach me: 🏠 [Home Page](https://wibus.ren) | ✍️ [Blog (CN)](https://blog.wibus.ren) | 🐦 [Twitter](https://twitter.com/@wibus_wee)
+- 🔭 Currently leading on an innovative content marketing system 
+- 🌱 Learning 🧵 web design, and literally anything else code related.
+- 🤔 Ready to join a team of AI minded marketers and operations experts.
+- 📫 Reach me on 🐦 [Twitter](https://twitter.com/@thehikarinet)
 - ⚡ Fun fact: Like sleeping. 💤
-- 🎵 I am currently focusing on the combination of 🇨🇳 Chinese style music and 💡 modern electronic music, and 🎹 piano music in the Baroque period.
-
-<p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=wibus-wee">
-<a href="https://blog.wibus.ren" align="center"><img src="https://img.shields.io/badge/Blog-blog.iucky.cn-yellow"></a>
-<a href="https://wakatime.com/@5c293fcd-9bec-4609-946b-c06b5fbf192c"><img src="https://wakatime.com/badge/user/5c293fcd-9bec-4609-946b-c06b5fbf192c.svg" alt="Total time coded since Apr 24 2021" /></a>
-</p>
 
 ---
 
 <br />
 
-<a href="https://github.com/wibus-wee#gh-light-mode-only">
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wibus-wee&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<a href="https://github.com/ai-akuma#gh-light-mode-only">
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 </a>
   
 
-<a href="https://github.com/wibus-wee#gh-dark-mode-only">
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wibus-wee&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/>
+<a href="https://github.com/ai-akuma#gh-dark-mode-only">
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/>
 </a>
 
 <br />
@@ -69,63 +58,31 @@ I began to learn vocal music and piano since I was a child, and I have won many 
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
 </p>
 
-
-**我的开源项目**
-
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td></tr></thead><tbody><tr><td><a href=https://github.com/mogland/core><b>mogland/core</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mogland/core?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mogland/core?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mogland/core/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mogland/core?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mogland/core/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mogland/core?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/wibus-wee/wc-lantern><b>wibus-wee/wc-lantern</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/wibus-wee/wc-lantern?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/wibus-wee/wc-lantern?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/wibus-wee/wc-lantern/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/wibus-wee/wc-lantern?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/wibus-wee/wc-lantern/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/wibus-wee/wc-lantern?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/wibus-wee/wibus.ren><b>wibus-wee/wibus.ren</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/wibus-wee/wibus.ren?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/wibus-wee/wibus.ren?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/wibus-wee/wibus.ren/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/wibus-wee/wibus.ren?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/wibus-wee/wibus.ren/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/wibus-wee/wibus.ren?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/wibus-wee-ac/chatgpt-bing-extension><b>wibus-wee-ac/chatgpt-bing-extension</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/wibus-wee-ac/chatgpt-bing-extension?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/wibus-wee-ac/chatgpt-bing-extension?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/wibus-wee-ac/chatgpt-bing-extension/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/wibus-wee-ac/chatgpt-bing-extension?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/wibus-wee-ac/chatgpt-bing-extension/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/wibus-wee-ac/chatgpt-bing-extension?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/wibus-wee-ac/github-event-discord-listener><b>wibus-wee-ac/github-event-discord-listener</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/wibus-wee-ac/github-event-discord-listener?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/wibus-wee-ac/github-event-discord-listener?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/wibus-wee-ac/github-event-discord-listener/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/wibus-wee-ac/github-event-discord-listener?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/wibus-wee-ac/github-event-discord-listener/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/wibus-wee-ac/github-event-discord-listener?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/wibus-wee/Mix><b>wibus-wee/Mix</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/wibus-wee/Mix?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/wibus-wee/Mix?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/wibus-wee/Mix/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/wibus-wee/Mix?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/wibus-wee/Mix/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/wibus-wee/Mix?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/utmapp/UTM><b>utmapp/UTM</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/utmapp/UTM?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/utmapp/UTM?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/utmapp/UTM/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/utmapp/UTM?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/utmapp/UTM/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/utmapp/UTM?style=flat-square&labelColor=343b41"></a></td></tr></tbody></table>
-
-
-<!-- **目前在...**
-
-opensource_dashboard:gs -->
-
-
-
-**最近赞了...**
-
-<ul><li><a href=https://github.com/makeplane/plane>makeplane/plane</a> -- <span>🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.</span></li><li><a href=https://github.com/Jurredr/github-widgetbox>Jurredr/github-widgetbox</a> -- <span>[✨] Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)</span></li><li><a href=https://github.com/seemoo-lab/owl>seemoo-lab/owl</a> -- <span>An open Apple Wireless Direct Link (AWDL) implementation written in C</span></li><li><a href=https://github.com/fzf404/Monit>fzf404/Monit</a> -- <span>🎯 展示各种信息的桌面小组件</span></li><li><a href=https://github.com/rsuite/rsuite>rsuite/rsuite</a> -- <span>🧱 A suite of React components .</span></li></ul>
-
-
-**曾经看了...**
-
-<ul><li><a href=https://github.com/vercel-labs/react-tweet>vercel-labs/react-tweet</a> -- <span>Embedded and static tweets for React applications</span></li><li><a href=https://github.com/nbudin/react-blockly>nbudin/react-blockly</a> -- <span>A React component that embeds a Blockly visual programming editor.</span></li><li><a href=https://github.com/hepengwei/visualization-collection>hepengwei/visualization-collection</a> -- <span>🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例（持续更新）</span></li><li><a href=https://github.com/pacexy/tailwindcss-variable-colors>pacexy/tailwindcss-variable-colors</a> -- <span>Add dark mode support with just one class</span></li><li><a href=https://github.com/anse-app/anse>anse-app/anse</a> -- <span>Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.</span></li></ul>
-
-
-**捉迷藏**
-
-<p>
- <a href="https://github.com/mogland" target="_blank"><img alt="Mog" src='https://img.shields.io/badge/Mog-white.svg?&style=for-the-badge&color=green' /></a>
-<a href="https://github.com/wibus-wee" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://github.com/mx-space" target="_blank"><img alt="Innei" src='https://img.shields.io/badge/mx%20space-blue.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iNzkiIHZpZXdCb3g9IjAgMCA4MCA3OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC43NTcpIiBmaWxsLXJ1bGU9Im5vbnplcm8iPjxwYXRoIGQ9Ik0zOS4xNyAwQzE3LjUzNiAwIDAgMTcuNTM3IDAgMzkuMTdjMCAyMS42MzIgMTcuNTM3IDM5LjE2OSAzOS4xNyAzOS4xNjkgMjEuNjMyIDAgMzkuMTY5LTE3LjUzNyAzOS4xNjktMzkuMTdDNzguMzM5IDE3LjUzNyA2MC44MDIgMCAzOS4xNjkgMHptMCA3My45ODZjLTE5LjIzIDAtMzQuODE4LTE1LjU4OC0zNC44MTgtMzQuODE3IDAtMTkuMjI4IDE1LjU4OS0zNC44MTcgMzQuODE3LTM0LjgxNyAxOS4yMjkgMCAzNC44MTcgMTUuNTg5IDM0LjgxNyAzNC44MTcgMCAxOS4yMjktMTUuNTg4IDM0LjgxNy0zNC44MTcgMzQuODE3eiIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjM5LjE2OSIgY3k9IjM5LjE2OSIgcj0iMzEuNTI3Ii8+PC9nPjxwYXRoIGQ9Ik0zOS44MDEgNTkuMDQ3TDE5Ljc1NyAzOS4wNDUgMzkuOCAxOS4wMDFsMjAuMDAyIDIwLjAwMUwzOS44IDU5LjA0N3pNNTUuOTkgNDEuODg0bC03LjE0Ny02LjczNS05LjA0LTguNTJMMjMuNTcgNDEuODg0bTI0Ljc5LTUuNzJMMzMuMTA2IDUxLjQxOG0tMS45MDctMTUuMjU2TDQ2LjQ1NCA1MS40MiIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuOCIvPjwvZz48L3N2Zz4=&logoColor=white' /></a>
-</p>
-
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/3/23, 5:14 PM<br>下一次刷新：6/3/23, 8:14 PM</p>
-
-<a href="https://github.com/wibus-wee#gh-light-mode-only">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
+<a href="https://github.com/ai-akuma#gh-light-mode-only">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ai-akuma&theme=github" width="100%">
 </a>
 
-<a href="https://github.com/wibus-wee#gh-dark-mode-only">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github_dark" width="100%">
+<a href="https://github.com/ai-akuma#gh-dark-mode-only">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ai-akuma&theme=github_dark" width="100%">
 </a>
 
 
-<a href="https://github.com/wibus-wee#gh-light-mode-only">
+<a href="https://github.com/ai-akuma#gh-light-mode-only">
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wibus-wee&theme=github" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wibus-wee&theme=github" width="800"> |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai-akuma&theme=github" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ai-akuma&theme=github" width="800"> |
   
 </a>
 
 
-<a href="https://github.com/wibus-wee#gh-dark-mode-only">
+<a href="https://github.com/ai-akuma#gh-dark-mode-only">
   
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wibus-wee&theme=github_dark" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wibus-wee&theme=github_dark" width="800"> |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai-akuma&theme=github_dark" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ai-akuma&theme=github_dark" width="800"> |
   
   
 </a>
