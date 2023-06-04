@@ -25,12 +25,12 @@ I love work, Japanese culture, and my family. Actively working to automate busin
 <br />
 
 <a href="https://github.com/ai-akuma#gh-light-mode-only">
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 </a>
   
 
 <a href="https://github.com/ai-akuma#gh-dark-mode-only">
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/>
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/>
 </a>
 
 <br />
@@ -57,9 +57,16 @@ I love work, Japanese culture, and my family. Actively working to automate busin
   <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />
-<img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
-<img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
+  <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
+  <img alt="SciKit-Learn" src="https://img.shields.io/badge/-SciKit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="TensorFlow 2" src="https://img.shields.io/badge/-TensorFlow%202-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=Seaborn&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-FF7400?style=flat-square&logo=Matplotlib&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" />
 </p>
 
 ------------
