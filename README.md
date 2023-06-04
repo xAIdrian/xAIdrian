@@ -15,10 +15,10 @@ Hi! I'm Adrian! I am **a coder and entrepreneur**
 I love work, Japanese culture, and my family. Actively working to automate business growth with self-learning models.
 
 - 🔭 Currently leading on an innovative content marketing system 
-- 🌱 Learning 🧵 web design, and literally anything else code related.
-- 🤔 Ready to join a team of AI minded marketers and operations experts.
+- 🌱 Self taught 🧵 android, web, and machine learning. Learning AI algorithms and deep learninig.
+- 🤔 Ready to join a team of AI minded entrepreneurs and operations experts.
 - 📫 Reach me on 🐦 [Twitter](https://twitter.com/@thehikarinet)
-- ⚡ Fun fact: Like sleeping. 💤
+- ⚡ Fun fact: Like photography. 📸
 
 ---
 
