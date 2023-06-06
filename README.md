@@ -25,13 +25,14 @@ I love work, Japanese culture, and my family. Actively working to automate busin
 <br />
 
 <a href="https://github.com/ai-akuma#gh-light-mode-only">
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 </a>
   
 
 <a href="https://github.com/ai-akuma#gh-dark-mode-only">
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/>
 </a>
+
 
 <br />
 
@@ -64,7 +65,11 @@ I love work, Japanese culture, and my family. Actively working to automate busin
   <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=Seaborn&logoColor=white" />
   <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-FF7400?style=flat-square&logo=Matplotlib&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" />
+  
 </p>
+<br/>
+
+<a href="https://stackoverflow.com/users/10060679/ai-akuma"><img aling="right" src="https://stackoverflow.com/users/flair/10060679.png" width="208" height="58" alt="profile for AI Akuma at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AI Akuma at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ------------
 
