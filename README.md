@@ -10,15 +10,15 @@
 
 <img align="right" width="300" src="https://github.com/ai-akuma/ai-akuma/assets/7444521/294f1ab6-c3dc-486d-a452-2d45108e0570"/>
 
-Hi! I'm Adrian! I am **a coder and entrepreneur**
+My name is Adrian! I am **a coder and entrepreneur**
 
-I love work, Japanese culture, and my family. Actively working to automate business growth with self-learning models.
+I live in Bangkok, Thailand and the only thing I'm really passionate about is my work as an engineer. Actively working to automate business growth with self-learning models.
 
-- 🔭 Currently leading on an innovative content marketing system 
+- 🔭 Currently leading multiple businesses on an initiative to innovate their online presence with AI. 
 - 🌱 Self taught 🧵 android, web, and machine learning. Learning AI algorithms and deep learninig.
-- 🤔 Ready to join a team of AI minded entrepreneurs and operations experts.
+- 🤔 We ahve open positions on our team of AI minded entrepreneurs and operations experts.
 - 📫 Reach me on 🐦 [Twitter](https://twitter.com/@aiclientside)
-- ⚡ Fun fact: Like photography. 📸
+- ⚡ Fun fact: I like photography. 📸
 
 ---
 
