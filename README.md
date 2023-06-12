@@ -2,7 +2,7 @@
 <a href="mailto:adrianoligarch@gmail.com" align="center">
   <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
 </a>&nbsp;
-<a href="https://twitter.com/thehikarinet" align="center">
+<a href="https://twitter.com/aiclientside" align="center">
   <img alt="Wibus on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
 </a> &nbsp;)</h1>
 
@@ -17,7 +17,7 @@ I love work, Japanese culture, and my family. Actively working to automate busin
 - 🔭 Currently leading on an innovative content marketing system 
 - 🌱 Self taught 🧵 android, web, and machine learning. Learning AI algorithms and deep learninig.
 - 🤔 Ready to join a team of AI minded entrepreneurs and operations experts.
-- 📫 Reach me on 🐦 [Twitter](https://twitter.com/@thehikarinet)
+- 📫 Reach me on 🐦 [Twitter](https://twitter.com/@aiclientside)
 - ⚡ Fun fact: Like photography. 📸
 
 ---
