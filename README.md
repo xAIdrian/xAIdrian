@@ -1,12 +1,12 @@
-<h1> Akuma 👨‍💻 &nbsp;&nbsp; ( &nbsp;
+<h3> The King of the Nerds.  East coast transplant. Raised by wolves. 👨‍💻 &nbsp;&nbsp; ( &nbsp;
 <a href="mailto:adrianoligarch@gmail.com" align="center">
   <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
 </a>&nbsp;
-<a href="https://twitter.com/aiclientside" align="center">
+<a href="https://twitter.com/adrianmohnacs" align="center">
   <img alt="Wibus on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
 </a> &nbsp;)</h1>
 
-> <u>Ramen delivery driver. Works for the Yakuza. Preternaturally gifted AI hacker.</u>
+> <u>also Ramen delivery driver. Works for the Yakuza. Preternaturally gifted AI hacker. And all around good guy.</u>
 
 <img align="right" width="300" src="https://github.com/ai-akuma/ai-akuma/assets/7444521/294f1ab6-c3dc-486d-a452-2d45108e0570"/>
 
@@ -17,7 +17,7 @@ I live in Bangkok, Thailand and the only thing I'm really passionate about is my
 - 🔭 Currently leading multiple businesses on an initiative to innovate their online presence with AI. 
 - 🌱 Self taught 🧵 android, web, and machine learning. Learning AI algorithms and deep learninig.
 - 🤔 We ahve open positions on our team of AI minded entrepreneurs and operations experts.
-- 📫 Reach me on 🐦 [Twitter](https://twitter.com/@aiclientside)
+- 📫 Reach me on 🐦 [Twitter](https://twitter.com/@adrianmohnacs)
 - ⚡ Fun fact: I like photography. 📸
 
 ---
