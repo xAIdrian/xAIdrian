@@ -56,6 +56,9 @@ I live in Bangkok, Thailand and the only thing I'm really passionate about is my
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
+  <img src="https://img.shields.io/badge/language-JavaScript%20%7C%20HTML%20%7C%20TypeScript-yellow" alt="Language: JavaScript | HTML | TypeScript">
+  <img src="https://img.shields.io/badge/HTML-5-orange?logo=html5" alt="HTML5 Badge">
+  <img src="https://img.shields.io/badge/TypeScript-4.3.5-blue?logo=typescript" alt="TypeScript Badge">
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
   <img alt="SciKit-Learn" src="https://img.shields.io/badge/-SciKit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
