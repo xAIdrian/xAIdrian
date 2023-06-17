@@ -1,5 +1,5 @@
 <h3> The King of the Nerds.  East coast transplant. Raised by wolves. 👨‍💻 &nbsp;&nbsp; ( &nbsp;
-<a href="mailto:adrianoligarch@gmail.com" align="center">
+<a href="mailto:adrian@oligarchinnovation.com" align="center">
   <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
 </a>&nbsp;
 <a href="https://twitter.com/adrianmohnacs" align="center">
@@ -21,18 +21,6 @@ I live in Bangkok, Thailand and the only thing I'm really passionate about is my
 - ⚡ Fun fact: I like photography. 📸
 
 ---
-
-<br />
-
-<a href="https://github.com/ai-akuma#gh-light-mode-only">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
-</a>
-  
-
-<a href="https://github.com/ai-akuma#gh-dark-mode-only">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/>
-</a>
-
 
 <br />
 
@@ -70,9 +58,6 @@ I live in Bangkok, Thailand and the only thing I'm really passionate about is my
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" />
   
 </p>
-<br/>
-
-<a href="https://stackoverflow.com/users/10060679/ai-akuma"><img aling="right" src="https://stackoverflow.com/users/flair/10060679.png" width="208" height="58" alt="profile for AI Akuma at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AI Akuma at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ------------
 
