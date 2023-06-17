@@ -70,20 +70,38 @@ I live in Bangkok, Thailand and the only thing I'm really passionate about is my
 </a>
 
 
+<a href="https://github.com/ai-akuma?tab=repositories#gh-light-mode-only">
+
+| Repos                                         | Commits                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai-akuma&theme=github" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ai-akuma&theme=github" width="800"> |
+  
+</a>
+
+
+<a href="https://github.com/ai-akuma?tab=repositories#gh-dark-mode-only">
+  
+| Repos                                        | Commits                                                    |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai-akuma&theme=github_dark" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ai-akuma&theme=github_dark" width="800"> |
+  
+  
+</a>
+
 <a href="https://github.com/ai-akuma#gh-light-mode-only">
 
-| Top Language by Repo                                         | My Stats                                                     |
+| Top Metrics                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai-akuma&theme=github" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ai-akuma&theme=github" width="800"> |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ai-akuma&theme=github" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ai-akuma&theme=github" width="800"> |
   
 </a>
 
 
 <a href="https://github.com/ai-akuma#gh-dark-mode-only">
   
-| Top Language by Repo                                         | My Stats                                                     |
+| Top Metrics                                        | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai-akuma&theme=github_dark" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ai-akuma&theme=github_dark" width="800"> |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ai-akuma&theme=github_dark" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ai-akuma&theme=github_dark" width="800"> |
   
   
 </a>
