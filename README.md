@@ -73,18 +73,17 @@ I live in Bangkok, Thailand and the only thing I'm really passionate about is my
 
 <a href="https://github.com/ai-akuma?tab=repositories#gh-light-mode-only">
 
-| Repos                                         | Commits                                                     |
+| Player Score                                         | Repos                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai-akuma&theme=github" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ai-akuma&theme=github" width="800"> |
+| <img align="right" width="800" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai-akuma&theme=github" width="800"> |
   
 </a>
 
-
 <a href="https://github.com/ai-akuma?tab=repositories#gh-dark-mode-only">
   
-| Repos                                        | Commits                                                    |
+| Player Score                                        | Repos                                                    |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai-akuma&theme=github_dark" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ai-akuma&theme=github_dark" width="800"> |
+| <img align="right" width="800" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai-akuma&theme=github_dark" width="800"> |
   
   
 </a>
