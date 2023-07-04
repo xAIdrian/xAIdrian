@@ -73,17 +73,17 @@ I live in Bangkok, Thailand and the only thing I'm really passionate about is my
 
 <a href="https://github.com/ai-akuma?tab=repositories#gh-light-mode-only">
 
-| Player Score                                         | Repos                                                     |
+| Player Score                                         | Languages                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img align="right" width="800" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai-akuma&theme=github" width="800"> |
+| <img width="800" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-akuma&locale=en&hide_title=false&layout=compact&card_width=320&hide_border=false&order=2" width="800" alt="languages graph"  /> |
   
 </a>
 
 <a href="https://github.com/ai-akuma?tab=repositories#gh-dark-mode-only">
   
-| Player Score                                        | Repos                                                    |
+| Player Score                                        | Languages                                                    |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img align="right" width="800" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai-akuma&theme=github_dark" width="800"> |
+| <img width="800" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/> |  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-akuma&locale=en&hide_title=false&theme=dark&layout=compact&card_width=320&hide_border=false&order=2" width="800" alt="languages graph"  /> |
   
   
 </a>
