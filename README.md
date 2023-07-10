@@ -6,7 +6,7 @@
   <img alt="Wibus on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
 </a> &nbsp;)</h1>
 
-> <u>also Ramen delivery driver. Works for the Yakuza. Preternaturally gifted AI hacker. And all around good guy.</u>
+> <u>also Ramen delivery driver. Assassin for the Yakuza. Preternaturally gifted AI hacker. And all around good guy.</u>
 
 <img align="right" width="300" src="https://github.com/ai-akuma/ai-akuma/assets/7444521/294f1ab6-c3dc-486d-a452-2d45108e0570"/>
 
