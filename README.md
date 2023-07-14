@@ -2,7 +2,7 @@
 <a href="mailto:adrian@oligarchinnovation.com" align="center">
   <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
 </a>&nbsp;
-<a href="https://twitter.com/adrianmohnacs" align="center">
+<a href="https://twitter.com/bereadyforai" align="center">
   <img alt="Wibus on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
 </a> &nbsp;)</h1>
 
@@ -17,7 +17,7 @@ I live in Bangkok, Thailand and the only thing I'm really passionate about is my
 - 🔭 Currently leading multiple businesses on an initiative to innovate their online presence with AI. 
 - 🌱 Self taught 🧵 android, web, and machine learning. Learning AI algorithms and deep learninig.
 - 🤔 We ahve open positions on our team of AI minded entrepreneurs and operations experts.
-- 📫 Reach me on 🐦 [Twitter](https://twitter.com/@adrianmohnacs)
+- 📫 Reach me on 🐦 [Twitter](https://twitter.com/@bereadyforai)
 - ⚡ Fun fact: I like photography. 📸
 
 ---
