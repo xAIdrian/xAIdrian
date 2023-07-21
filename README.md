@@ -1,30 +1,42 @@
-<h3> The King of the Nerds.  East coast transplant. Raised by wolves. 👨‍💻 &nbsp;&nbsp; ( &nbsp;
-<a href="mailto:adrian@oligarchinnovation.com" align="center">
-  <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
-</a>&nbsp;
-<a href="https://twitter.com/bereadyforai" align="center">
-  <img alt="Wibus on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
-</a> &nbsp;)</h1>
+My name is **Adrian Mohnacs**. I am a **Software Engineer** with a focus on **Machine Learning** after coming from a background in **Android and Full Stack Development**
 
-> <u>also Ramen delivery driver. Assassin for the Yakuza. Preternaturally gifted AI hacker. And all around good guy.</u>
+Strategizing and aiming beyond the horizon has always excited me. Though it takes more than faith in an idea to achieve big goals. It takes an incredible group of people that not only believe in the idea but also have the talent to execute it. I realize that no matter how good I am, I cannot accomplish my goals on my own.
 
-<img align="right" width="300" src="https://github.com/ai-akuma/ai-akuma/assets/7444521/294f1ab6-c3dc-486d-a452-2d45108e0570"/>
+### Experience
 
-My name is Adrian! I am **a coder and entrepreneur**
+#### Senior Software Engineer, Android 
+_TextNow.  Waterloo, Canada 03/21 - 03/23_
+<br/><br/>
+Increased the number of phone number ports into our service by 100% by optimizing user experience with server driven UI.  Architected dynamic UI component with 3rd party platform increasing the sale of SIM cards by more than 120%.  Integrated one-touch payment processors using Braintree SDK and GooglePay optimizing SIM card checkout to improve daily sales by 11%. 
 
-I live in Bangkok, Thailand and the only thing I'm really passionate about is my work as an engineer. Actively working to automate business growth with self-learning models.
+#### Software Engineer, Android 
+_Warner Bros Digital Labs.  New York 09/19 - 03/21_
+<br/><br/>
+Project lead responsible for development, analytics integrations, code reviews, and releases to production and maintenance for our Boomerang app with over 1 million users.  Architect, planned, and developed React Native to Android migration introducing Android Jetpack and clean architecture.  Drove the team’s key objective of reaching 90% Kotlin conversion from 68% Java for DC Universe multi-media app.  
 
-- 🔭 Currently leading multiple businesses on an initiative to innovate their online presence with AI. 
-- 🌱 Self taught 🧵 android, web, and machine learning. Learning AI algorithms and deep learninig.
-- 🤔 We ahve open positions on our team of AI minded entrepreneurs and operations experts.
-- 📫 Reach me on 🐦 [Twitter](https://twitter.com/@bereadyforai)
-- ⚡ Fun fact: I like photography. 📸
+#### Technical Co-Founder
+_The Global Hackathon.  Los Angeles, CA 02/19 - 09/19_
+<br/<br/>
+Researched, built, and maintained open-source decentralized applications on the Ethereum blockchain.  Developed RESTful APIs for integration with Android and iOS clients for use by hackathon participants.  Using truffle, solidity, metamast wallets, faucets, and Hedera Hashgraph.
 
----
+#### Software Engineer, Android 
+_Procore.  Carpinteria, CA 05/18 - 02/19_
+<br/><br/>
+Worked closely with API teams to design and develop our server-driven UI natively rendering dynamic UI components leading to the enrollment of four new enterprise clients at $4 million per client per year.  Led the migration of central architecture components from the MVP to MVVM and Android Architecture Components. Led the initiative to improve unit test coverage improving code coverage by 30%.
+
+### Education
+
+#### B.S., Computer Science
+_Hanover College, Indiana. 2004_
+<br/><br/>
+Coursework: Software Engineering, Data Structures and Algorithms, Android Development, Operating Systems, Artificial Intelligence, Information Technology.
+
+### Certifications
+[MIT Applied Data Science & ML Program](#)
 
 <br />
 
-**Stacks**
+**Tech Stack**
 
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -103,5 +115,11 @@ I live in Bangkok, Thailand and the only thing I'm really passionate about is my
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
 | <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ai-akuma&theme=github_dark" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ai-akuma&theme=github_dark" width="800"> |
   
-  
-</a>
+&nbsp;
+<a href="mailto:adrian@oligarchinnovation.com" align="right">
+  <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
+</a>&nbsp;
+<a href="https://twitter.com/bereadyforai" align="right">
+  <img alt="Wibus on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
+</a> &nbsp;
+
