@@ -74,46 +74,46 @@ Coursework: Software Engineering, Data Structures and Algorithms, Android Develo
 
 ------------
 
-<a href="https://github.com/ai-akuma#gh-light-mode-only">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ai-akuma&theme=github" width="100%">
+<a href="https://github.com/xAIdrian#gh-light-mode-only">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xAIdrian&theme=github" width="100%">
 </a>
 
-<a href="https://github.com/ai-akuma#gh-dark-mode-only">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ai-akuma&theme=github_dark" width="100%">
+<a href="https://github.com/xAIdrian#gh-dark-mode-only">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xAIdrian&theme=github_dark" width="100%">
 </a>
 
 
-<a href="https://github.com/ai-akuma?tab=repositories#gh-light-mode-only">
+<a href="https://github.com/xAIdrian?tab=repositories#gh-light-mode-only">
 
 | Player Score                                         | Languages                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img width="800" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-akuma&locale=en&hide_title=false&layout=compact&card_width=320&hide_border=false&order=2" width="800" alt="languages graph"  /> |
+| <img width="800" src="https://github-readme-stats.vercel.app/api?username=xAIdrian&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xAIdrian&locale=en&hide_title=false&layout=compact&card_width=320&hide_border=false&order=2" width="800" alt="languages graph"  /> |
   
 </a>
 
-<a href="https://github.com/ai-akuma?tab=repositories#gh-dark-mode-only">
+<a href="https://github.com/xAIdrian?tab=repositories#gh-dark-mode-only">
   
 | Player Score                                        | Languages                                                    |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img width="800" src="https://github-readme-stats.vercel.app/api?username=ai-akuma&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/> |  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-akuma&locale=en&hide_title=false&theme=dark&layout=compact&card_width=320&hide_border=false&order=2" width="800" alt="languages graph"  /> |
+| <img width="800" src="https://github-readme-stats.vercel.app/api?username=xAIdrian&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/> |  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xAIdrian&locale=en&hide_title=false&theme=dark&layout=compact&card_width=320&hide_border=false&order=2" width="800" alt="languages graph"  /> |
   
   
 </a>
 
-<a href="https://github.com/ai-akuma#gh-light-mode-only">
+<a href="https://github.com/xAIdrian#gh-light-mode-only">
 
 | Top Metrics                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ai-akuma&theme=github" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ai-akuma&theme=github" width="800"> |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xAIdrian&theme=github" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xAIdrian&theme=github" width="800"> |
   
 </a>
 
 
-<a href="https://github.com/ai-akuma#gh-dark-mode-only">
+<a href="https://github.com/xAIdrian#gh-dark-mode-only">
   
 | Top Metrics                                        | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ai-akuma&theme=github_dark" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ai-akuma&theme=github_dark" width="800"> |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xAIdrian&theme=github_dark" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xAIdrian&theme=github_dark" width="800"> |
   
 &nbsp;
 <a href="mailto:adrian@oligarchinnovation.com" align="right">
