@@ -89,3 +89,7 @@ Strategizing and aiming beyond the horizon has always excited me. Though it take
   <img alt="Wibus on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
 </a> &nbsp;
 
+<p align="center"> 
+  Visits count<br>
+  <img src="https://profile-counter.glitch.me/xaidrian/count.svg" />
+</p>
