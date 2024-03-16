@@ -80,16 +80,16 @@ Strategizing and aiming beyond the horizon has always excited me. Though it take
 | Top Metrics                                        | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
 | <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xAIdrian&theme=github_dark" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xAIdrian&theme=github_dark" width="800"> |
-  
-&nbsp;
-<a href="mailto:adrian@oligarchinnovation.com" align="right">
-  <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
-</a>&nbsp;
-<a href="https://twitter.com/bereadyforai" align="right">
-  <img alt="Wibus on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
-</a> &nbsp;
 
-<p align="center"> 
-  Visits count<br>
-  <img src="https://profile-counter.glitch.me/xaidrian/count.svg" />
-</p>
+<a href="https://git.io/streak-stats" style="width: 100%"><img src="https://github-readme-streak-stats.herokuapp.com?user=xAIdrian" alt="GitHub Streak" /></a>
+  
+<div align="right">
+    <a href="mailto:adrian@oligarchinnovation.com" align="right">
+    <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
+    </a>&nbsp;
+    <a href="https://twitter.com/TheCelebrityCTO" align="right">
+      <img alt="on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
+    </a> 
+    <p> <img src="https://komarev.com/ghpvc/?username=xAIdrian&label=Profile%20views&color=0e75b6&style=flat" alt="xAidrian" /> </p>
+</div>
+
