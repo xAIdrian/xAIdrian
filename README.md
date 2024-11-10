@@ -1,10 +1,12 @@
-<img align="right" width="250" src="https://github.com/xAIdrian/xAIdrian/assets/7444521/fa1ff883-f73f-463f-8383-e24ad0658256"/>
+<img align="right" width="250" src="https://github.com/user-attachments/assets/81d27221-8e80-4944-adea-b5076e78a7f7"/>
 
-My name is **Adrian Mohnacs**. I am a **Software Engineer** with a focus on **Machine Learning** after coming from a background in **Android and Full Stack Development**
+**Welcome to xAIdrian's Pokédex**
 
-Strategizing and aiming beyond the horizon has always excited me. Though it takes more than faith in an idea to achieve big goals. It takes an incredible group of people that not only believe in the idea but also have the talent to execute it. I realize that no matter how good I am, I cannot accomplish my goals on my own.
+🌟 Hey there! I’m Adrian Mohnacs, a Software Engineer and lifelong Trainer but instead of Pokémon I'm training **Machine Learning & Large Language Models**. My campaign is focused on collecting the 3 most important gym badges: Start an AI Studio, Scale a Startup, and Emerge Victorious in the VC Arena!  In between save points I hope to learn some special abilities like automation and agentic structure related to code generation.
 
-**Tech Stack**
+🧩 Just like a team of well-trained Pokémon, achieving ambitious goals takes more than raw power. It’s about teaming up with talented Trainers who share the vision and have the skills to make it real. I may be the Trainer, but my achievements are powered by an amazing squad.
+
+🎒 Tech Stack: (Gear I carry with me!)
 
 <p align="left">
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
