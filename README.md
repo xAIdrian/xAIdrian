@@ -42,6 +42,7 @@
   
 </p>
 
+<!--
 <a href="https://github.com/xAIdrian#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xAIdrian&theme=github" width="100%">
 </a>
@@ -50,6 +51,14 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xAIdrian&theme=github_dark" width="100%">
 </a>
 
+<a href="https://github.com/wibus-wee#gh-light-mode-only">
+    <img align="right" width="450" src="https://github-readme-stats.vercel.app/api/?username=xaidrian&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=24292f&icon_color=57606a&bg_color=ffffff&border_color=d0d7de&rank_icon=percentile&show=reviews,discussions_answered"/>
+</a>
+-->  
+
+<a href="https://github.com/wibus-wee#gh-dark-mode-only">
+    <img align="right" width="450" src="https://github-readme-stats.vercel.app/api/?username=xaidrian&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117&border_color=30363d&rank_icon=percentile&show=reviews,discussions_answered"/>
+</a>
 
 <a href="https://github.com/xAIdrian?tab=repositories#gh-light-mode-only">
 
