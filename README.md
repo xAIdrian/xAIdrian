@@ -1,6 +1,6 @@
 <img align="right" width="250" src="https://github.com/user-attachments/assets/81d27221-8e80-4944-adea-b5076e78a7f7"/>
 
-**My name's xAI.  Nice to meet you.**
+**My name's xAIdrian.  Nice to meet you.**
 
 I’m a Software Engineer training Machine Learning & Large Language Models.  I also really enjoy automating business process with agenctic structures. 
 
