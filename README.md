@@ -1,12 +1,18 @@
 <img align="right" width="250" src="https://github.com/user-attachments/assets/81d27221-8e80-4944-adea-b5076e78a7f7"/>
 
-**Welcome to xAIdrian's Pokédex**
+**My name's xAI.  Nice to meet you.**
 
-🌟 Hey there! I’m Adrian Mohnacs, a Software Engineer and lifelong Trainer but instead of Pokémon I'm training **Machine Learning & Large Language Models**. My campaign is focused on collecting the 3 most important gym badges: Start an AI Studio, Scale a Startup, and Emerge Victorious in the VC Arena!  In between save points I hope to learn some special abilities like automation and agentic structure related to code generation.
+I’m a Software Engineer training Machine Learning & Large Language Models.  I also really enjoy automating business process with agenctic structures. 
 
-🧩 Just like a team of well-trained Pokémon, achieving ambitious goals takes more than raw power. It’s about teaming up with talented Trainers who share the vision and have the skills to make it real. I may be the Trainer, but my achievements are powered by an amazing squad.
+Life goals include:
 
-🎒 Tech Stack: (Gear I carry with me!)
+- [x] Start an AI agency
+- [ ] Scale a Startup
+- [ ] Raise VC funds
+
+Achieving ambitious goals takes more than raw power. It’s about teaming up with talented entrepreneurs who share the vision and have the skills to make it real. Nothing great can be accomplished without a team.
+
+My Tech Stack: 
 
 <p align="left">
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
